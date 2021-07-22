@@ -1,7 +1,7 @@
 ## Installation
 1. Clone project
     ```
-    git clone 
+    git clone https://github.com/vudang/iOS-Test.git
     ```
 
 2. Install
